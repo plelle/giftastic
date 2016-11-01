@@ -1,0 +1,20 @@
+header {
+	margin-bottom: 50px;
+}
+section {
+	padding: 0px 25px;
+}
+button {
+	margin: 10px 10px;
+	background-color: white;
+	color: black;
+
+}
+img {
+	margin-bottom: 15px;
+}
+
+#buttons {
+	background-color: gray;
+
+}  
